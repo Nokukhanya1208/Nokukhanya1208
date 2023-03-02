@@ -7,7 +7,7 @@
 
 - 👨‍💻 Tools I've worked with: **AWS, Jupyter Notebook, Spyder, Git and GitHub, Git Bash, Virtual Studio Code, PowerBI, Trello, Discord**
 
-- 📫 How to reach me **nokumagagu@gmail.com**
+- 📫 How to reach me **noximaggs@gmail.com**
 
 - ⚡ Fun fact **My favorite anime is "Attack on Titan".**
 
