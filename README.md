@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nokukhanya Magagula</h1>
 <h3 align="center">I'm a junior Data Scientist keen in Machine Learning.</h3>
 
-- 🔭 I’m currently working on **obtaining the AWS Cloud Foundations certificate.**
+- 🔭 I’m a certified AWS Cloud Practitioner.
 
 - 👨‍💻 I'm highly skilled in **Project Management, Time Management, Communication, Data Science Life Cycle.**
 
